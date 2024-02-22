@@ -1,5 +1,9 @@
 # Projet NLP 
 
+## Réalisé par: 
+- Sarah IKHLEF
+- Brahim BERKENNOU
+  
 ## Objectif : 
 Mettre en œuvre des techniques de Traitement Automatique du Langage Naturel (TALN) pour effectuer à la fois l'analyse de sentiment et la classification de sujets de manière efficace.
 
